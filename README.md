@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ethan 👋
 
+## 🚀 About Me
+- 🎓 Teacher-in-training & software developer  
+- 📱 Building **Keeprr** – a daily photo journaling app (React Native + Expo)  
+- 💻 Open-source contributor & tech enthusiast  
+- 🌍 Based in Toronto, Canada  
+
+## 📫 How to Reach Me
+- X: [x.com/buildwithethan](#)
+- LinkedIn: [linkedin.com/in/ethan-um](#)  
+- GitHub: [github.com/ethan-new](#)
+
+✨ Thanks for visiting my profile!  
 <!--
 **Ethan-new/ethan-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
