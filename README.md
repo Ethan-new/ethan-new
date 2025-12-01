@@ -7,9 +7,9 @@
 - 🌍 Based in Toronto, Canada  
 
 ## 📫 How to Reach Me
-- X: [x.com/buildwithethan](#)
-- LinkedIn: [linkedin.com/in/ethan-um](#)  
-- GitHub: [github.com/ethan-new](#)
+- X: [x.com/buildwithethan](https://x.com/buildwithethan)
+- LinkedIn: [linkedin.com/in/ethan-um](https://www.linkedin.com/in/ethan-um)
+- GitHub: [github.com/ethan-new](https://github.com/ethan-new)
 
 ✨ Thanks for visiting my profile!  
 <!--
