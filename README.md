@@ -2,8 +2,6 @@
 
 Full-stack developer and indie app maker, currently finishing a Bachelor of Education at York University while staying deep in the code.
 
----
-
 ### What I'm Working On
 
 - **Keeprr** — A privacy-focused offline photo journaling app for iOS. Built with Swift and SwiftUI, available on the [App Store](https://apps.apple.com).
