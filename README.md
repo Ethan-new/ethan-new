@@ -5,7 +5,7 @@ Full-stack developer and indie app maker, currently finishing a Bachelor of Educ
 ### What I'm Working On
 
 - **Keeprr** — A privacy-focused offline photo journaling app for iOS. Built with Swift and SwiftUI, available on the [App Store](https://apps.apple.com).
-- **Building in public** — Sharing the dev journey on [TikTok](https://tiktok.com) and [X](https://x.com).
+- **Building in public** — Sharing the dev journey on [TikTok](https://www.tiktok.com/@ethancodesthings).
 
 ### Tech Stack
 
