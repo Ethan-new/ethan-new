@@ -25,7 +25,7 @@ Full-stack developer and indie app maker, currently finishing a Bachelor of Educ
 
 ### Where I've Worked
 
-- **Treasury Board Secretariat** — Ontario Government Web Developer - Full-Stack Developer)
+- **Treasury Board Secretariat** — Ontario Government Web Developer - Full-Stack Developer
 - **Aim Vector** — Junior Software Developer
 
 ### Currently
